@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.grid{
+    aspect-ratio: 1/1;
+    background-color: white;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
