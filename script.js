@@ -3,7 +3,7 @@ const container = document.createElement("div")
 container.classList.add("container")
 
 function setNewGrid(height, width){
-    let unit = (1/(height>width ? height : width))*94
+    let unit = (1/(height>width ? height : width))*92
 
     let previous = container.querySelectorAll(".row")
     previous.forEach((e)=>container.removeChild(e))
