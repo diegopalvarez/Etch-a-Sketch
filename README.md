@@ -7,3 +7,4 @@ In this project, I made use of JavaScript, HTML and CSS to create a simple, yet 
 3. When you mouse leaves the tile, it doesn't go back to its previous state. Instead, it progressively darkens until it becomes black.
 
 This allows you to create complex patterns and drawings. Let you imagination flow, and *enjoy*!
+See it live _[here](https://diegopalvarez.github.io/Etch-a-Sketch/)_!
